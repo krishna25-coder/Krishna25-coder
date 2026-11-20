@@ -2,27 +2,5 @@
 
 # Namaste! I am Krishna Bhattarai 👋
 
-Welcome to my GitHub profile! I am an IT student passionate about technology, coding, and software development.
+<img width="1696" height="624" alt="image_eb1bbaeb" src="https://github.com/user-attachments/assets/1778953e-be33-44dd-bf81-8a77c1099038" />
 
-### 💻 Skills & Technologies:
-- **Web Development:** HTML5, CSS3, JavaScript
-- **Tools & Version Control:** Git, GitHub
-- **Currently Learning:** Programming Fundamentals & Problem Solving
-
-### 🚀 My Goals:
-- Building real-world coding projects
-- Exploring new technologies in the IT sector
-
-### 📫 Connect with me:
-- **GitHub:** [@krishna25-coder](https://github.com)
-
-- **Web Development:** HTML5, CSS3, JavaScript
-- **Tools & Version Control:** Git, GitHub
-- **Currently Learning:** Programming Fundamentals & Problem Solving
-
-### 🚀 My Goals:
-- Building real-world coding projects
-- Exploring new technologies in the IT sector
-
-### 📫 Connect with me:
-- **GitHub:** [@krishna25-coder](https://github.com)
