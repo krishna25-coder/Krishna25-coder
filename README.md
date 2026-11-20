@@ -1,16 +1,15 @@
-## Hi there 👋
+# Namaste! I am Krishna Bhattarai 👋
 
-<!--
-**krishna25-coder/Krishna25-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am an IT student passionate about technology, coding, and software development.
 
-Here are some ideas to get you started:
+### 💻 What I am learning:
+- Web Development (HTML, CSS, JavaScript)
+- Programming Basics & Problem Solving
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Goals:
+- Building real-world coding projects
+- Exploring new technologies in the IT sector
+
+### 📫 Connect with me:
+- GitHub: [@krishna25-coder](https://github.com)
