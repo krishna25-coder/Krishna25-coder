@@ -16,9 +16,6 @@ Welcome to my GitHub profile! I am an IT student passionate about technology, co
 ### 📫 Connect with me:
 - **GitHub:** [@krishna25-coder](https://github.com)
 
-Welcome to my GitHub profile! I am an IT student passionate about technology, coding, and software development.
-
-### 💻 Skills & Technologies:
 - **Web Development:** HTML5, CSS3, JavaScript
 - **Tools & Version Control:** Git, GitHub
 - **Currently Learning:** Programming Fundamentals & Problem Solving
